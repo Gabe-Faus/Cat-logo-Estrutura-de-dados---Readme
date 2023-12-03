@@ -3,7 +3,7 @@ O projeto consiste na implementação de um catálogo de vendas de uma loja de m
 
 ## Autores
 Gabriel Pessoa Faustino - 231006121
-MIcaele Dias Alves - 231021450
+Micaele Dias Alves - 231021450
 
 ## Contexto de Aplicação
 O código implementado é uma estrutura de dados que simula um catálogo de vendas de uma loja de maguiagem. Ele permite aos clientes interagir, buscar produtos, adicionar ao carrinho e finalizar a compra. 
